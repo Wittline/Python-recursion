@@ -19,12 +19,11 @@ This repository shows the implementation of the most common recursive algorithms
 </details>
 
 <details closed>    
-<summary> <a href="https://www.linkedin.com/learning/python-recursion/the-power-of-recursion"> <strong>Check this course:</strong> Python Recursion from Linkedin Learning </a> </summary>    
+<summary> <a href="https://www.linkedin.com/learning/python-recursion/the-power-of-recursion"> <strong>Check the course:</strong> Python Recursion from Linkedin Learning </a> </summary>    
 </details>
 
-
 # Contributing and Feedback
-Any ideas or feedback about this repository?. Help me to improve it.
+Any ideas or feedback about this repository?
 
 # Authors
 - Created by <a href="https://www.linkedin.com/in/ramsescoraspe"><strong>Ramses Alexander Coraspe Valdez</strong></a>
