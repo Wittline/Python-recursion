@@ -29,6 +29,3 @@ Any ideas or feedback about this repository?
 - Created by <a href="https://www.linkedin.com/in/ramsescoraspe"><strong>Ramses Alexander Coraspe Valdez</strong></a>
 - Created on Feb, 2021
 
-# License
-This project is licensed under the terms of the MIT license.
-
